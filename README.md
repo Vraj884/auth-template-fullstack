@@ -60,7 +60,7 @@ root/
 
 ```bash
 git clone https://github.com/Vraj884/auth-template-fullstack.git
-cd fullstack-auth-app
+cd auth-template-fullstack
 ```
 
 ---
